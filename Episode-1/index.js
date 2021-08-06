@@ -6,4 +6,4 @@ client.on('ready', () => {
     console.log(`${client.user.tag} is now online!`)
 })
 
-client.login(config.token)
+client.login(config.token) 
