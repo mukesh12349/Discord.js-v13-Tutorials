@@ -1,0 +1,23 @@
+{
+  "name": "Discord.js-v13-Tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.0.0-dev.2675b08.1627603447"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Just-Msv/Discord.js-v13-Tutorials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Just-Msv/Discord.js-v13-Tutorials/issues"
+  },
+  "homepage": "https://github.com/Just-Msv/Discord.js-v13-Tutorials#readme"
+}
